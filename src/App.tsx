@@ -18,8 +18,8 @@ function App() {
   }, []);
 
   return (
-    <>
-    </>
+    <div className='container-xl'>
+    </div>
   )
 }
 
