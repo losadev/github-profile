@@ -4,3 +4,7 @@
   background-repeat: no-repeat;
   background-size: contain;
 }
+.container-search-bar {
+  justify-self: center;
+  padding: 3em;
+}

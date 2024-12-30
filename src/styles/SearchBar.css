@@ -1,0 +1,20 @@
+.search-bar {
+  display: inline-flex;
+  align-items: center;
+  padding: 0 15px;
+  background-color: #20293A;
+  gap: 16px;
+  border-radius: 12px;
+  & input {
+    background-color: inherit;
+    border: none;
+    width: 33.3vw;
+    height: 3.4em;
+    color: #CDD5E0;
+    font-size: 1.5rem;
+    outline: none;
+  }
+}
+::placeholder {
+  color:#4A5567
+}
